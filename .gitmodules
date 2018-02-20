@@ -1,3 +1,6 @@
 [submodule "rack"]
 	path = rack
 	url = https://github.com/chneukirchen/rack.git
+[submodule "rgit"]
+	path = rgit
+	url = https://github.com/stbka/rgit
